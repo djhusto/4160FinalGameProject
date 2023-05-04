@@ -65,3 +65,5 @@ https://github.com/djhusto/4160FinalGameProject
 It is run by downloading the file and typing “python3 allinone.py”
 Video Link:
 It is uploaded onto github. Could not find a good way to link it so you can see it in the github if you want to watch a video of the gameplay.
+
+Included in the other file is all of my old game file that was incomplete to show a different approach that was taken before the final decision was made. 
